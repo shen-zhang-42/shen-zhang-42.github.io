@@ -1,4 +1,6 @@
-/* Make profile image rectangular instead of circular */
-.author__avatar img {
-  border-radius: 0 !important;   /* 去掉圆角 */
+/* Limit single-column content width */
+.page__content {
+  max-width: 880px;   /* 推荐 820–920px 之间 */
+  margin-left: auto;
+  margin-right: auto;
 }
