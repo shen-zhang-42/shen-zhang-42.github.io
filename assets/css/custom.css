@@ -1,0 +1,4 @@
+/* Make profile image rectangular instead of circular */
+.author__avatar img {
+  border-radius: 0 !important;   /* 去掉圆角 */
+}
