@@ -8,6 +8,13 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+@import "minimal-mistakes";
+
+/* ✅ 自定义字体 */
+body {
+    font-family: "Times New Roman", Times, serif !important;
+}
+
 @import
     "vendor/breakpoint/breakpoint",
 
