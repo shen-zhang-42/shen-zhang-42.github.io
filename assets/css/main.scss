@@ -1,27 +1,10 @@
 ---
-
 /*
  * This file controls what is imported from /_sass
  *
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-
-
-body {
-    font-family: "Times New Roman", Times, serif !important;
-    font-size: 18px;
-    line-height: 1.7;
-}
-
-.page__content {
-    font-family: "Times New Roman", Times, serif !important;
-}
-
-h1, h2, h3, h4 {
-    font-family: "Times New Roman", Times, serif !important;
-}
-
 
 @import
     "vendor/breakpoint/breakpoint",
