@@ -3,9 +3,9 @@
     "air-background@shen-zhang-42.github.io": {
       "updates": [
         {
-          "version": "1.2.0",
-          "update_link": "https://github.com/shen-zhang-42/shen-zhang-42.github.io/releases/download/air-helper-v1.2.0/air-zotero-helper-1.2.0.xpi",
-          "update_hash": "sha256:fda638e5707b3d2af705dab5bf28194cd0f70db9bb0c7adb10ad7af73560d6a8",
+          "version": "1.2.1",
+          "update_link": "https://github.com/shen-zhang-42/shen-zhang-42.github.io/releases/download/air-helper-v1.2.1/air-zotero-helper-1.2.1.xpi",
+          "update_hash": "sha256:ec46b4bc8a486733e77dd2081515b4e277b642afa52b9260ee77291d4cf531d2",
           "applications": {
             "zotero": {
               "strict_min_version": "10.0",
